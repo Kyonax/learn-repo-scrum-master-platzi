@@ -1,0 +1,8 @@
+#+TITLE: Introduction to Scrum
+#+AUTHOR: Kyonax - Cristian Moreno
+
+~First Definition~ to understand what is ~Scrum~, *What is Agile Methodology?*
+
+#+BEGIN_QUOTE
+"Agile Methodology is a project management approach that prioritizes cross-functional collaboration and continuos improvement. It divides projects into smaller phases and guides teams through cycles of planning, execution, and evaluation."
+#+END_QUOTE

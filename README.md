@@ -39,17 +39,17 @@ This repo is NOT replacing or transcribing any information that you can find in 
 # Curriculum
 **Curriculum version**: `0.1.0`
 - [Scrum Professional Course](#scrum-professional-course)
-  - [Introduction to Agile Methodologies and Scrum](#introduction-to-agile-methodologies-and-scrum)
+  - [Introduction to Scrum](#introduction-to-scrum)
   - [The Scrum Team and its roles](#the-scrum-ream-and-its-roles)
 
 ## Scrum Professional Course
 Be successful in your projects by applying the most successful agile framework. Master the Scrum methodology and use it to deliver value to your customers through iterative deliveries that allow you to make improvements on the fly and learn in the process.
 
-### Introduction to Agile Methodologies and Scrum
-Agile and Scrum theory and basics, start with the beginning:
+### Introduction to Scrum
+Scrum theory and basics, start with the beginning:
 
 - Scrum Professional Course
-    - [Introduction to Agile Methodologies and Scrum](Notes/ScrumProfessionalCourse/introduction.org)
+    - [Introduction to Scrum](Notes/ScrumProfessionalCourse/introduction.org)
 
 ### The Scrum Team and its Roles
 Scrum Roles:
