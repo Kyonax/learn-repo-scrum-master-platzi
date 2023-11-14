@@ -1,8 +1,110 @@
 #+TITLE: Introduction to Scrum
 #+AUTHOR: Kyonax - Cristian Moreno
 
-~First Definition~ to understand what is ~Scrum~, *What is Agile Methodology?*
+~First Definition~ to understand what is ~Scrum~ | *What is Agile Methodology?*
 
 #+BEGIN_QUOTE
 "Agile Methodology is a project management approach that prioritizes cross-functional collaboration and continuos improvement. It divides projects into smaller phases and guides teams through cycles of planning, execution, and evaluation."
+#+END_QUOTE
+
+* Table of Contents :toc:
+- [[#notes][Notes]]
+  - [[#what-is-agile-methodology][What is Agile Methodology?]]
+- [[#principles-of-the-agile-manifesto][Principles of the Agile Manifesto]]
+
+* Notes
+** What is Agile Methodology?
+Definition of some terms, and explanation of the Agile Methodology.
+- *What is Agile?:*
+  #+BEGIN_QUOTE
+  "Agile is the hability to create products and respond to changes."
+  "Agile is a set of frameworks and methodologies."
+  #+END_QUOTE
+- *Methodologies:*
+  - Scrum
+  - Kanban
+  - XtremeProgramming
+  - Pair to Pair Programming
+  - Test Driven Development
+- *Agile focus on people*
+- *Agile Mindset*:
+  #+BEGIN_QUOTE
+  "We are discovering better ways of developing software, both through our own experience and by assisting others."
+  #+END_QUOTE
+- *Differences between Traditional Development and Agile*:
+  - Team Work
+  - Requirements
+  - Value Generation
+
+* Principles of the Agile Manifesto
+#+BEGIN_QUOTE
+1. "Our highest priority is to satisfy the customer
+through early and continuous delivery
+of valuable software."
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+2. "Welcome changing requirements, even late in
+development. Agile processes harness change for
+the customer's competitive advantage."
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+3. "Deliver working software frequently, from a
+couple of weeks to a couple of months, with a
+preference to the shorter timescale."
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+4. "Business people and developers must work
+together daily throughout the project."
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+5. "Build projects around motivated individuals.
+Give them the environment and support they need,
+and trust them to get the job done."
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+6. "The most efficient and effective method of
+conveying information to and within a development
+team is face-to-face conversation."
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+7. "Working software is the primary measure of progress."
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+8. "Agile processes promote sustainable development.
+The sponsors, developers, and users should be able
+to maintain a constant pace indefinitely."
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+8. "Agile processes promote sustainable development.
+The sponsors, developers, and users should be able
+to maintain a constant pace indefinitely."
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+9. "Continuous attention to technical excellence
+and good design enhances agility."
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+10. "Simplicity--the art of maximizing the amount
+of work not done--is essential."
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+11. "The best architectures, requirements, and designs
+emerge from self-organizing teams."
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+12. "At regular intervals, the team reflects on how
+to become more effective, then tunes and adjusts
+its behavior accordingly. "
 #+END_QUOTE
