@@ -11,7 +11,7 @@
 - [[#notes][Notes]]
   - [[#what-is-agile-methodology][What is Agile Methodology?]]
 - [[#principles-of-the-agile-manifesto][Principles of the Agile Manifesto]]
-  - [[#course-notes][Course Notes]]
+- [[#what-is-scrum][What is Scrum?]]
 
 * Notes
 ** What is Agile Methodology?
@@ -53,9 +53,10 @@ Definition of some terms, and explanation of the Agile Methodology.
 12. "At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. "
 #+END_QUOTE
 
-** Course Notes
 Phrases to have in mind!
-- _"*Individuals and Interactions* over processes and tools."_
-- _"*Working Software* over extensive documentations."_
-- _"*Collaboration with the customer* over contractual negotiation."_
-- _"*Responding to change* over following a plan."_
+- "*Individuals and Interactions* over processes and tools."
+- "*Working Software* over extensive documentations."
+- "*Collaboration with the customer* over contractual negotiation."
+- "*Responding to change* over following a plan."
+
+* What is Scrum?
