@@ -39,6 +39,7 @@ This repo is NOT replacing or transcribing any information that you can find in 
 # Curriculum
 **Curriculum version**: `0.1.0`
 - [Scrum Professional Course](#scrum-professional-course)
+  - [Introduction to Agile Methodologies and Scrum](#introduction-to-agile-methodologies-and-scrum)
   - [The Scrum Team and its roles](#the-scrum-ream-and-its-roles)
 
 ## Scrum Professional Course
