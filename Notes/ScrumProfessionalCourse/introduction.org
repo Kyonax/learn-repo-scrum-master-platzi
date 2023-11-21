@@ -15,6 +15,11 @@
   - [[#scrum-essence][Scrum essence]]
   - [[#scrum-theory][Scrum theory]]
   - [[#scrum-pilars][Scrum Pilars]]
+  - [[#scrum-values][Scrum Values]]
+- [[#what-are-the-scrum-components][What are the Scrum components?]]
+  - [[#the-scrum-team][The Scrum Team]]
+  - [[#scrum-events][Scrum Events]]
+  - [[#scrum-artiffacts][Scrum Artiffacts]]
 
 * Notes
 ** What is Agile Methodology?
@@ -80,8 +85,48 @@ The essence of Scrum is a small team of people. The individual team is flexible 
 
 - Ideal size of a team: min 3 (5-7 people) max 10
 - Iterative Process
+- Communication
 
 ** Scrum theory
 Scrum is based on the theory of empirical process control or empiricism. Empiricism ensures that knowledge comes from experience and making decisions based on what is known.
 
 ** Scrum Pilars
+The three scrum pilars:
+
+- Transparency: Everyone needs to know the actual state of the project. (Honest Communication)
+- Inspection: Artiffacts or Requirements.
+- Adaptative: The cappability to implement changes in the project.
+
+** Scrum Values
+The values depend on the Scrum pilars, exist five (the values are based mainly in the iterations of each project):
+
+- Commitment: The team will commit 100% to the current iteration and project objective.
+- Courage: No matter what is the task the team will have the courage to make it done.
+- Focus: Everyone will focus to finish their own objectives in the iteration.
+- Openness: Everyone will be open to listen.
+- Respect: We are a team, we need to respect others.
+
+* What are the Scrum components?
+The Scrum Team, Scrum Events, Scrum Artiffacts.
+
+** The Scrum Team
+Self-organized and cross-functional. The team has roles:
+
+- Product Owner: Responsible for maximizing the value of the product.
+- Scrum Master: Responsible for promoting and supporting Scrum.
+- Development Team: Professionals who perform the work of delivering a finished product increment.
+
+** Scrum Events
+In Scrum, there are predefined events to create regularity and minimize the need for ad-hoc meetings in Scrum.
+
+- Sprint: It is the heart of Scrum where a product increment is created.
+- Sprint Planning: Ceremony to define what will be done during the sprint.
+- Daily Stand-Up: Daily meeting of the entire development team.
+- Sprint Review: It is where the increment developed during the sprint is showcased.
+- Sprint Retrospective: Opportunity for continuos improvement.
+
+** Scrum Artiffacts
+The artiffacts in Scrum represent work or value in various forms that are useful for providing transparency and oppotunities for inspection and adaptation.
+
+- Product Backlog: It is an ordered list of everything that is known to be necessary in the product.
+- Sprint Backlog: Items from the product backlog selected for the sprint.
