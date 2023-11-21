@@ -1,0 +1,83 @@
+#+TITLE: Scrum Team and Roles
+#+AUTHOR: Kyonax - Cristian Moreno
+
+The team model in Scrum is designed to optimize flexibility, creativity, and productivity. Scrum teams deliver products iteratively and incrementally, maximizing opportunities to receive feedback.
+
+[#A] Things to have in mind:
+- Minimize the external dependencies.
+- Organization types.
+
+[#A] Community Advices:
+- Daily Scrum
+  - Questions to answer:
+    * What has been my contribution since the last Daily Scrum to help the team achieve the goal?
+    * What will be my contribution starting today to help the team achieve the team's goal?
+    * What kind of barriers am I having or am I going to have to fulfill the team's goal?
+  - Structure:
+    * What did I do Yesterday?
+    * What will I do Today?
+    * What things are blocking my work? or rasing alerts about possible delays and the reasons, to implement supportive measures to avoid potential delays.
+
+* Table Of Contents :toc:
+- [[#scrum-team][Scrum Team]]
+  - [[#product-owner][Product Owner]]
+  - [[#scrum-master][Scrum Master]]
+  - [[#development-team][Development Team]]
+  - [[#community-ideas][Community Ideas]]
+
+* Scrum Team
+** Product Owner
+Is the responsible for ensuring the success of a project in Scrum. The product owner is responsible for managing and optimizing the product backlog in order to maximize the value of the product.
+
+The Product Owner decisions reflect the Backlog content and priorization. No one should force Development Team to work based on a set on differents requirements.
+
+*** Responsabilities
+- Express clearly the Backlog elements.
+- Give priority to Backlog elements.
+- Optimice the work value of the Development Team.
+- Ensures that the Backlog is visible, transparent, and clear.
+- Ensures that the Development Team knows about the Backlog elements.
+
+
+** Scrum Master
+Is the master of Scrum, who ensures the Scrum framework is followed. Scrum Master helps everyone to understand the Scrum theory, practice, rules, and values.
+
+*** Responsabilities
+- Ensure that the product objectives, scope, and domain are understandable for the whole Scrum team in the best way possible.
+- Understand and practice the Agile Methodology.
+- Facilitate the Scrum events as required or needed.
+- Guide the Development Team to be self-organized and multifunctional.
+- Help the Development Team to create high value products.
+- Delete impediments for the Development Team progress.
+- Lead and guide the organization in the Scrum adoption.
+- Work with other Scrum Masters to increment effectiveness in the adoption of Scrum in the organization.
+
+** Development Team
+A group of 3-9 people who collaboratively develop a product. The Development Team in Scrum has two core characteristics. It is cross-functional and self-organized. Cross-functional means that the team has all the skills or capabilities needed for product development.
+
+*** Responsabilities
+- Self-Organized.
+- Multifunctionals.
+- Any one has tittles. No one is the boss.
+- Doesn't exist sub-teams.
+- The Development Team can't be modified until the Sprint finish.
+
+** Community Ideas
+*** Table of Responsabilities
+| Activity                                    | Product Owner | Scrum Mater | Development Team |
+|---------------------------------------------+---------------+-------------+------------------|
+| Daily Scrum assistance                      |               | X           | X                |
+| Give product Backlog priority               | X             |             |                  |
+| Retrospectives assistance                   | X             | X           | X                |
+| Do increment tests                          |               |             | X                |
+| Show the Sprint result in the Sprint review | X             | X           | X                |
+| Work in the increment of Development        |               |             | X                |
+| Promote the Scrum implementation            |               | X           |                  |
+| Create User Stories                         | X             |             |                  |
+| Organize the Team events                    |               | X           |                  |
+| Implement process improvements              |               | X           |                  |
+| Represent the Client                        | X             |             |                  |
+| Plan the Sprint                             | X             |             |                  |
+| Estimate the User Stories                   | X             | X           | X                |
+| Resolve impediments                         |               | X           |                  |
+| Cancel the Sprint                           | X             |             |                  |
