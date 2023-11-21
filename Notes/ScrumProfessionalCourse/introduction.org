@@ -60,3 +60,14 @@ Phrases to have in mind!
 - "*Responding to change* over following a plan."
 
 * What is Scrum?
+SCRUM definition, and why is important for the Agile Methodologies.
+
+#+BEGIN_QUOTE
+"SCRUM" is an ordered formation of players, used to restart play, in which the forwards of a team form up with arms interlocked and heads down, and push forward against a similar group from the opposing side. The ball is thrown into the "SCRUM" and the players try to gain posession of it by kicking it backwards towards their own side.
+#+END_QUOTE
+
+What is SCRUM for the Agile Methodologies
+
+#+BEGIN_QUOTE
+"SCRUM" is an agile team collaboration framework commonly used in Software Development and other industries. Scrum prescribes for team to break work into goals to be completed within time-boxed iterations, called "sprints" Each sprint is no longer than one month and commonly lasts two weeks. The Scrum team assesses progress in time-boxed, stand-up meetings of up to 15 minutes, called daily scrums.
+#+END_QUOTE
