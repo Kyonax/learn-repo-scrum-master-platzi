@@ -12,8 +12,8 @@
   - [[#what-is-agile-methodology][What is Agile Methodology?]]
 - [[#principles-of-the-agile-manifesto][Principles of the Agile Manifesto]]
 - [[#what-is-scrum][What is Scrum?]]
-  - [[#scrum-essence][Scrum essence]]
-  - [[#scrum-theory][Scrum theory]]
+  - [[#scrum-essence][Scrum Essence]]
+  - [[#scrum-theory][Scrum Theory]]
   - [[#scrum-pilars][Scrum Pilars]]
   - [[#scrum-values][Scrum Values]]
 - [[#what-are-the-scrum-components][What are the Scrum components?]]
@@ -80,14 +80,14 @@ What is SCRUM for the Agile Methodologies
 "SCRUM" is an agile team collaboration framework commonly used in Software Development and other industries. Scrum prescribes for team to break work into goals to be completed within time-boxed iterations, called "sprints" Each sprint is no longer than one month and commonly lasts two weeks. The Scrum team assesses progress in time-boxed, stand-up meetings of up to 15 minutes, called daily scrums.
 #+END_QUOTE
 
-** Scrum essence
+** Scrum Essence
 The essence of Scrum is a small team of people. The individual team is flexible and adaptive.
 
 - Ideal size of a team: min 3 (5-7 people) max 10
 - Iterative Process
 - Communication
 
-** Scrum theory
+** Scrum Theory
 Scrum is based on the theory of empirical process control or empiricism. Empiricism ensures that knowledge comes from experience and making decisions based on what is known.
 
 ** Scrum Pilars
